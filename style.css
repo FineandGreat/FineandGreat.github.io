@@ -395,3 +395,16 @@ font-family:"Microsoft yahei";
 .TabbedPanelsTabHover {
 	background-color: #CCC;
 }
+.main{width:1000px; margin:0 auto; margin-top:10px;}
+.ma_l{width:495px; height:272px;position:relative; background:url(images/WechatIMG43.jpeg) no-repeat; float:left;}
+.ma_t{height:30px; margin-top:15px; line-height:30px; margin-left:15px;}
+.ma_t .s1{font-family:"微软雅黑"; font-size:24px; color:#bb0a09;}
+.ma_t .s2{font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#646464;}
+.ma_m{width:142px; float:right; margin-right:75px; margin-top:10px;}
+.ma_m li{height:30px; line-height:30px; border-bottom:1px dotted #848484;}
+.ma_m li a{font-family:"微软雅黑"; font-size:12px; color:#646464; padding-left:15px;}
+.ma_m li a:hover{ color:red;}
+.ma_m li:hover{ color:red; border-bottom:1px dotted #000;}
+.ma_b{ width:98px; height:37px; position:absolute; bottom:10px;float:right; margin-left:370px;}
+
+.ma_r{width:495px; height:272px;position:relative; background:url(images/zixun.jpg) no-repeat; float:right;}
